@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a FE developer
+
 - 🔭 I’m currently working on `Baidu` 😉
 - 🌱 I’m currently learning `Python` 🤓
 - 📫 How to reach me: `yancqgq@gmail.com` / `23746485@qq.com` 🤗
