@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a FE developer
+Hello everyone, I am a FE development engineer and am trying to become an excellent software engineer.
 
 - 🔭 I’m currently working on `Baidu` 😉
 - 🌱 I’m currently learning `Python` 🤓
