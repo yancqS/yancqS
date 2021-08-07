@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello everyone, I am a FE development engineer and am trying to become an excellent software engineer.
+Hello everyone, I am a FE development engineer from Beijing, China.
 
 - 🔭 I’m currently working on `Baidu` 😉
 - 🌱 I’m currently learning `Python` 🤓
