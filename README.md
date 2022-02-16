@@ -2,7 +2,7 @@
 
 Hello everyone, I am a FE development engineer from Beijing, China.
 
-- 🔭 I’m currently working on `Baidu` 😉
+- 🔭 I’m currently working on `Alibaba Group` 😉
 - 🌱 I’m currently learning `Python` 🤓
 - 📫 How to reach me: `yancqgq@gmail.com` / `23746485@qq.com` 🤗
 - 😄 Pronouns: Yoha 🥳
