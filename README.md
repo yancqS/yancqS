@@ -3,8 +3,7 @@
 Hello everyone, I am a FE development engineer from Beijing, China.
 
 - 🔭 I’m currently working on `Alibaba Group` 😉
-- 🌱 I’m currently learning `Python` 🤓
-- 📫 How to reach me: `yancqgq@gmail.com` / `23746485@qq.com` 🤗
+- 📫 How to reach me: `yancqgq@gmail.com` 🤗
 - 😄 Pronouns: Yoha 🥳
 - ⚡ Fun fact: Hearth Stone、delicious food、Sci-fi movies... 😋
 - 🤔 My blog: [Yoha's Blog](http://up-4ever.site/) 💫
